@@ -1,3 +1,5 @@
+# *Egaroucid is strongest AI !!!!!!*
+
 # Java Reversi BattleAI
 
 このプロジェクトは、Javaで作成されたリバーシ（オセロ）の対戦用AIのソースコードです。
